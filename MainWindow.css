@@ -1,7 +1,9 @@
 body {
-    background: #F2F2F2,
+    background: #F2F2F2;
 }
 
 #left-menu {
-    background: white,
+    background-color: white;
+    width: 250px;
+    height: 100%;
 }
