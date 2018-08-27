@@ -1,11 +1,10 @@
 body {
     background: #F2F2F2;
-    margin: 0
 }
 
 #left-menu {
     background-color: black;
     width: 250px;
     height: 100%;
-    margin: 10px
+    margin: 10px;
 }
