@@ -5,15 +5,22 @@ body {
 
 .left-menu {
     background-color: white;
-    width: 250px;
-    height: 100%;
+    width: 300px;
 }
 
 .left-menu-button {
     background: transparent;
-    width: 120px;
+    width: 300px;
     outline: 0;
     border: 0;
     color: #D4D8DE;
     height: 30px;
+}
+
+.left-menu-nav {
+    width: 100%;
+    align-content: flex-start;
+}
+.left-menu-nav:hover {
+    color: #0055FD
 }
