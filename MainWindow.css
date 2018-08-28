@@ -6,13 +6,13 @@ body {
 .left-menu {
     background-color: white;
     width: 300px;
+    overflow-y: auto;
 }
 
 .left-menu-button {
     background: transparent;
     width: 300px;
     outline: 0;
-    font-family: 'Arial Rounded MT Bold' , sans-serif;
     font-size: 18px;
     margin-top: 10px;
     border: 0;
@@ -26,4 +26,10 @@ body {
 }
 .left-menu-nav:hover {
     color: #0055FD
+}
+
+.icon-nav {
+    width: 30px;
+    height: 30px;
+    stroke: #D4D8DE
 }
