@@ -12,6 +12,9 @@ body {
     background: transparent;
     width: 300px;
     outline: 0;
+    font-family: 'Arial Rounded MT Bold' , sans-serif;
+    font-size: 18px;
+    margin-top: 10px;
     border: 0;
     color: #D4D8DE;
     height: 30px;
