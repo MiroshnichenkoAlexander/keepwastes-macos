@@ -4,7 +4,14 @@ body {
 }
 
 .left-menu {
-    background-color: black;
+    background-color: white;
     width: 250px;
     height: 100%;
+}
+
+.left-menu-button {
+    background: transparent;
+    width: 120px;
+    color:#D4D8DE;
+    height: 30px;
 }
