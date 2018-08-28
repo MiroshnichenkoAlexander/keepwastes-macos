@@ -12,6 +12,8 @@ body {
 .left-menu-button {
     background: transparent;
     width: 120px;
-    color:#D4D8DE;
+    outline: 0;
+    border: 0;
+    color: #D4D8DE;
     height: 30px;
 }
