@@ -1,6 +1,6 @@
 # KeepWastes - macOS
 
-## macOS version of \[KeepWastes\]\([https://github.com/emerfloyd/keepwastes-macos](https://github.com/emerfloyd/keepwastes-macos)\)
+## macOS version of [KeepWastes](https://github.com/emerfloyd/keepwastes-macos)
 
 ## Installation
 
